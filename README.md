@@ -4,4 +4,4 @@ student information using java swing and oracle database
 
 # check the code 
 
-in src file
+in src/student/info folder
